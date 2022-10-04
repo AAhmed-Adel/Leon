@@ -1,2 +1,2 @@
-"# io-project-template-1" 
-"# Leon" 
+# Leon - HTML & CSS Template
+## From Elzero Web School - Template One
