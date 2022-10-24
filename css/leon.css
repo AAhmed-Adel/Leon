@@ -180,12 +180,11 @@ body {
 /* Start Landing */
 .landing {
     text-align: center;
-    background-color: #eee;
     height: calc(70vh - 60px);
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(/img/landing.jpg);
+    background-image: url(img/landing.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
