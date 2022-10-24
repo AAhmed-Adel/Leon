@@ -184,7 +184,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(img/landing.jpg);
+    background-image: url(../img/landing.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
